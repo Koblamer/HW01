@@ -1,0 +1,56 @@
+.line {
+    border: solid 0.5px black;
+    margin: 1rem 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.lighter{
+    font-weight: lighter;
+}
+
+.paddingY5 {
+    padding: 5px 0;
+}
+.paddingY1rem {
+    padding: 1rem 0;
+}
+
+.paddingR5 {
+padding-right: 5px;
+
+}
+
+.table {
+    table-layout: auto;
+}
+
+.borderBox{
+    border: 1px solid black;
+    padding: 2rem;
+    padding-right: 3rem;
+    width: 40%;
+}
+
+.w100 {
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.headerColorBlue{
+    background-color: rgba(168, 237, 247, 0.442);
+}
+
+.textLeft {
+    text-align: left;
+}
